@@ -10,4 +10,4 @@ def prime?(n)
   end
 end
 
-prime?(17)
+prime?(10)
